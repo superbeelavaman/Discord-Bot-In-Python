@@ -74,4 +74,4 @@ async def on_message(message):
             await message.channel.send(":record_button::blue_square::record_button:\n:record_button::blue_square::record_button:\n:record_button::blue_square::record_button:")
         print("rolled a die")
         
-client.run("ODEzNDQyNzQxMzkyMjQ0NzU3.YDPXlg.yWypMpd0cMuqsgb4XYzY8J3PIMc")#this will be different on other discord bots
+client.run("(bot id)")#this this is where the bot's id goes
